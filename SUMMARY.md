@@ -16,7 +16,3 @@
 * [10. Financial and Regulatory Compliance](whitepaper/10.-financial-and-regulatory-compliance.md)
 * [11. Disclaimer](whitepaper/11.-disclaimer.md)
 
----
-
-* [Untitled](untitled.md)
-
