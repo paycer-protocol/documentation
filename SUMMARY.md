@@ -16,4 +16,5 @@
   * [9. Vision and Future](documentation/whitepaper/9.-vision-and-future.md)
   * [10. Financial and Regulatory Compliance](documentation/whitepaper/10.-financial-and-regulatory-compliance.md)
   * [11. Disclaimer](documentation/whitepaper/11.-disclaimer.md)
+* [Litepaper](https://www.paycer.io/paycer_litepaper.pdf?t=1630009349074)
 
