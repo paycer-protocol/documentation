@@ -15,7 +15,7 @@
   * [8. Vision and Future](documentation/whitepaper/9.-vision-and-future.md)
   * [9. Financial and Regulatory Compliance](documentation/whitepaper/10.-financial-and-regulatory-compliance.md)
   * [10. Disclaimer](documentation/whitepaper/11.-disclaimer.md)
-  * [10. List of Abbreviations](documentation/whitepaper/list-of-abbreviations.md)
+  * [11. List of Abbreviations](documentation/whitepaper/list-of-abbreviations.md)
   * [11. References](documentation/whitepaper/13.-references.md)
 * [Litepaper](https://www.paycer.io/paycer_litepaper.pdf?t=1630009349074)
 
