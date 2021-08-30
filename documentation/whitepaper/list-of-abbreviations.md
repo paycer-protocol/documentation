@@ -1,4 +1,4 @@
-# 12. List of Abbreviations
+# 10. List of Abbreviations
 
 ACT   Atomic Crosschain Transaction  
 AI   Artificial Intelligence  
