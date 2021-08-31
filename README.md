@@ -7,8 +7,6 @@ description: >-
 
 # Home
 
-![](.gitbook/assets/paycer-1-2-.jpg)
-
 ## What is Paycer Protocol?
 
 The Paycer team is developing a bridge protocol that aggregates DeFi and crypto services cross-chain and combines them with traditional banking services to create new user-friendly financial products and services available on an easy to use platform.  
