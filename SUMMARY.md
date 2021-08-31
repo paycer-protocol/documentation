@@ -19,11 +19,3 @@
   * [12. References](documentation/whitepaper/13.-references.md)
 * [Litepaper](https://www.paycer.io/paycer_litepaper.pdf?t=1630009349074)
 
-## Links
-
-* [paycer.io](https://www.paycer.io)
-* [GitHub](https://github.com/paycer-protocol)
-* [Telegram](https://t.me/paycerprotocol)
-* [Medium](https://paycerprotocol.medium.com/)
-* [Twitter](https://www.twitter.com/paycerprotocol)
-
