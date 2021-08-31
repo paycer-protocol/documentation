@@ -1,6 +1,11 @@
-# Home
+---
+description: >-
+  Welcome to the Paycer Protocol Docs! This central source of truth contains
+  instructions and documentation for using the Paycer Protocol. We also provide
+  useful resources related to Paycer.
+---
 
-Welcome to the Paycer Protocol Docs! This central source of truth contains instructions and documentation for using the Paycer Protocol. We also provide useful resources related to Paycer.
+# Home
 
 ![](.gitbook/assets/paycer-1-2-.jpg)
 
