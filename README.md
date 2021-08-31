@@ -13,3 +13,5 @@ The Paycer team is developing a bridge protocol that aggregates DeFi and crypto 
   
 The Paycer protocol will provide interchain operability and aggregate certain DeFi products from different blockchains. On top of the Paycer protocol sits the Paycer platform that combines the Paycer protocol with traditional financial services like a bank account and a debit card. Users only need to make a fiat money deposit on the Paycer platform to get started, no interaction with cryptocurrencies or DeFi is required. Paycer will then automatically place the deposit in selected DeFi products, providing a high and constant interest rate as a passive income.
 
+
+
