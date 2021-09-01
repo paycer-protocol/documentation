@@ -10,9 +10,9 @@ Welcome! This central source of truth containing instructions and documentations
 
 ### What is Paycer Protocol?
 
-The Paycer team is developing a bridge protocol that aggregates DeFi and crypto services cross-chain and combines them with traditional banking services to create new user-friendly financial products and services available on an easy to use platform.  
+The Paycer team is developing a bridge protocol that aggregates DeFi and crypto services cross-chain and combines them with traditional banking services to create new user-friendly financial products and services available on an easy to use platform. An essential target of Paycer is to operate the protocol and the platform legally and in compliance with the authorities.  
   
-The Paycer protocol will provide interchain operability and aggregate certain DeFi products from different blockchains. On top of the Paycer protocol sits the Paycer platform that combines the Paycer protocol with traditional financial services like a bank account and a debit card. Users only need to make a fiat money deposit on the Paycer platform to get started, no interaction with cryptocurrencies or DeFi is required. Paycer will then automatically place the deposit in selected DeFi products, providing a high and constant interest rate as a passive income.
+The Paycer protocol will provide interchain operability and aggregate certain DeFi products from different blockchains and ecosystems. On top of the Paycer protocol sits the Paycer platform that will combine the Paycer protocol with traditional financial services like a bank account and a debit card. Users will only need to make a fiat money deposit on the Paycer platform to get started, no interaction with cryptocurrencies or DeFi is required. Paycer will then automatically place the deposit in selected DeFi products, providing a high and constant interest rate as a passive income.
 
 
 
