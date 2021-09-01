@@ -1,4 +1,4 @@
-# Home
+# Introduction
 
 Welcome! This central source of truth contains instructions and documentation for using the Paycer Protocol. We also provide useful resources related to Paycer.
 
