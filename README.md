@@ -20,6 +20,16 @@ The Paycer protocol will provide interchain operability and aggregate certain De
 
 {% page-ref page="documentation/whitepaper/" %}
 
+
+
+### Learn More
+
+* [Visit the website](https://www.paycer.io)
+* [Medium Blog](https://paycerprotocol.medium.com/)
+* [GitHub Repository](https://github.com/paycer-protocol)
+
+
+
 ### Community
 
 * [Twitter](https://twitter.com/paycerprotocol)
