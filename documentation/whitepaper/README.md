@@ -1,10 +1,12 @@
 # Whitepaper
 
-Building a cross-chain yield aggregation bridge protocol for DeFi and banking for mainstream adaption
+**Building a cross-chain yield aggregation bridge protocol for DeFi and banking for mainstream adaption**
 
-![](../../.gitbook/assets/paycer-1-2-.jpg)
+![](../../.gitbook/assets/group-15-1-.png)
 
-This whitepaper presents the Paycer® protocol and platform, a cross-chain yield aggregator protocol. The main goals of Paycer are as follows:
+This whitepaper presents the Paycer® protocol and platform, a cross-chain yield aggregator protocol. 
+
+The main goals of Paycer are as follows:
 
 1.  Provide high, stable, and secure interest rates for users;
 2.  Develop smart and innovative financial services;
