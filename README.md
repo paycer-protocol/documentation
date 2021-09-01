@@ -12,3 +12,11 @@ The Paycer protocol will provide interchain operability and aggregate certain De
 
 
 
+### Getting started
+
+{% page-ref page="documentation/whitepaper/" %}
+
+
+
+
+
