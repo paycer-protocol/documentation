@@ -8,7 +8,7 @@ Welcome! This central source of truth containing instructions and documentations
 
 ![](.gitbook/assets/group-14-1-.png)
 
-### What is Paycer Protocol?
+### What is the Paycer Protocol?
 
 The Paycer team is developing a bridge protocol that aggregates DeFi and crypto services cross-chain and combines them with traditional banking services to create new user-friendly financial products and services available on an easy to use platform. Behind the Paycer project stands an official German company with its head office in Hamburg. An essential target of Paycer is to operate the protocol and the platform legally and in compliance with the authorities.  
   
