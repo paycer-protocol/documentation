@@ -19,3 +19,7 @@
   * [12. References](documentation/whitepaper/13.-references.md)
 * [Litepaper](https://www.paycer.io/paycer_litepaper.pdf?t=1630009349074)
 
+## About
+
+* [Terms and Conditions](about/terms-and-conditions.md)
+
