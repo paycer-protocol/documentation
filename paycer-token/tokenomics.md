@@ -15,8 +15,6 @@ Use case: Utility Token
 Maximum Supply: 750.000.000  
 TGE Supply: 1.180.365
 
-### 
-
 ### 2. Private Sale
 
 Tokens available for sale: 52.500.000 PCR  
