@@ -58,3 +58,19 @@ Vesting period: 12 months with a daily release of 1/365 of bought PCR
 
 The expected circulating supply will be around 600M PCR 8 years after the TGE. One year after the TGE when most vesting periods are over, the main drivers for the token release will be PCR staking and liquidity mining.
 
+### 8. Use of Funding
+
+
+
+### 9. Token Utilities
+
+1.
+
+2
+
+3
+
+
+
+
+
