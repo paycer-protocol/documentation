@@ -60,17 +60,31 @@ The expected circulating supply will be around 600M PCR 8 years after the TGE. O
 
 ### 8. Use of Funding
 
+The capital collected from private sale, pre-sale, and public sale will be used for the further development of the Paycer company and all related operations. The largest part of the investment will be allocated to technical development, including the Paycer protocol and platform. Another important point will be marketing and all related activities to reach end customers. Legal and regulatory aspects are also crucial, for instance obtaining a banking license. Continuous business development and exploration of new business areas are also essential. The last major item is operations; this includes infrastructure costs, rent, office equipment, and salaries that do not relate to any of the previously mentioned areas. The precise allocation of the funds is displayed in the following figure.
 
+![This picture displays how the Paycer funding will be used](../.gitbook/assets/paycer-funding-allocation-.png)
 
 ### 9. Token Utilities
 
-1.
+1. Voting
+2. Staking
+3. Loyalty Tiers
+4. More interests
+5. Reduced fees
+6. More rewards
+7. Token buyback
 
-2
+### 10. PCR Staking
 
-3
+TBD
 
+### 11. Liquidity Mining
 
+TBD
+
+### 12. Token Buyback
+
+TBD
 
 
 
