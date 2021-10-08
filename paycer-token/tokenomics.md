@@ -61,31 +61,19 @@ The expected circulating supply will be around 600M PCR 8 years after the TGE. O
 
 ### 8. Token Utilities
 
-1. Voting
-2. Staking
-3. Loyalty Tiers
-4. More interests
-5. Reduced fees
-6. More rewards
-7. Token buyback
+1. Voting: Participate in votings to influence the development of new features and the roadmap of the Paycer Platform.  
+2. Staking: Stake PCR to receive staking rewards of up to 24% APY. 
+3. Loyalty Tiers: Four different loyalty tiers available: Associate, Senior, Manager and Partner. Each loyalty tier comes with an additional bonus for staking rewards, interest rate and fee reduction. 
+4. More interests: You can add up to +4.5% to your interest rate. 
+5. Reduced fees: You can reduce your fees for loans up to -20%. 
+6. More rewards: You can increase your reward rate up to a double. 
+7. Token buyback: Paycer plans to use a part of its future revenue to buy back PCR tokens. This may require a license or permit that Paycer must obtain.
 
-### 9. PCR Staking
-
-TBD
-
-### 10. Liquidity Mining
-
-TBD
-
-### 11. Token Buyback
-
-TBD
-
-### 12. Use of Funding
+### 9. Use of Funding
 
 The capital collected from private sale, pre-sale, and public sale will be used for the further development of the Paycer company and all related operations. The largest part of the investment will be allocated to technical development, including the Paycer protocol and platform. Another important point will be marketing and all related activities to reach end customers. Legal and regulatory aspects are also crucial, for instance obtaining a banking license. Continuous business development and exploration of new business areas are also essential. The last major item is operations; this includes infrastructure costs, rent, office equipment, and salaries that do not relate to any of the previously mentioned areas. The precise allocation of the funds is displayed in the following figure.
 
-![How the received funding will be used by Paycer](../.gitbook/assets/paycer-funding-allocation-.png)
+![How the funding will be allocated by Paycer](../.gitbook/assets/paycer_funding_allocation.png)
 
 
 
