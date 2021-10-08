@@ -55,7 +55,7 @@ Vesting period: 12 months with a daily release of 1/365 of bought PCR
 
 ### 7. Expected Development of the Circulating PCR Supply
 
-![Expected development of the circulating PCR supply over 96 months](../.gitbook/assets/paycer-pcr-token-release-schedule.png)
+![](../.gitbook/assets/paycer_token_release_schedule_new%20%281%29.png)
 
 The expected circulating supply will be around 600M PCR 8 years after the TGE. One year after the TGE when most vesting periods are over, the main drivers for the token release will be PCR staking and liquidity mining.
 
