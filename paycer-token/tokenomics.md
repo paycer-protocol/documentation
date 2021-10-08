@@ -6,14 +6,15 @@ description: >-
 
 # Tokenomics
 
-![Paycer Tokenomics](../.gitbook/assets/paycer-tokenomics.png)
+![Summarized overview of the Paycer Tokenomics](../.gitbook/assets/paycer-tokenomics.png)
 
 ### 1. Paycer Token \(PCR\)
 
 Token type: ERC20  
 Use case: Utility Token  
 Maximum Supply: 750.000.000  
-TGE Supply: 1.180.365
+TGE Supply: 1.180.365  
+79% of PCR are allocated to the community and will be distributed by token sales, marketing, staking rewards and liquidity mining.
 
 ### 2. Private Sale
 
@@ -21,7 +22,7 @@ Tokens available for sale: 52.500.000 PCR
 Token price: $0.025  
 Vesting period: 12 months with a daily release of 1/365 of bought PCR
 
-Total possible raise: $1.312.500,00
+Hardcap: $1.312.500,00
 
 ### 3. Pre-Sale
 
@@ -29,7 +30,7 @@ Tokens available for sale: 135.000.000 PCR
 Token price: $0.045  
 Vesting period: 12 months with a daily release of 1/365 of bought PCR
 
-Total possible raise: $6.075.000,00
+Hardcap: $6.075.000,00
 
 ### 4. Public Sale
 
@@ -37,7 +38,7 @@ Tokens available for sale: 112.500.000 PCR
 Token price: $0.055  
 Vesting period: 6 months with a daily release of 1/180 of ought PCR
 
-Total possible raise: $6.187.500,00
+Hardcap: $6.187.500,00
 
 ### 5. Team Token
 
@@ -58,13 +59,7 @@ Vesting period: 12 months with a daily release of 1/365 of bought PCR
 
 The expected circulating supply will be around 600M PCR 8 years after the TGE. One year after the TGE when most vesting periods are over, the main drivers for the token release will be PCR staking and liquidity mining.
 
-### 8. Use of Funding
-
-The capital collected from private sale, pre-sale, and public sale will be used for the further development of the Paycer company and all related operations. The largest part of the investment will be allocated to technical development, including the Paycer protocol and platform. Another important point will be marketing and all related activities to reach end customers. Legal and regulatory aspects are also crucial, for instance obtaining a banking license. Continuous business development and exploration of new business areas are also essential. The last major item is operations; this includes infrastructure costs, rent, office equipment, and salaries that do not relate to any of the previously mentioned areas. The precise allocation of the funds is displayed in the following figure.
-
-![This picture displays how the Paycer funding will be used](../.gitbook/assets/paycer-funding-allocation-.png)
-
-### 9. Token Utilities
+### 8. Token Utilities
 
 1. Voting
 2. Staking
@@ -74,17 +69,23 @@ The capital collected from private sale, pre-sale, and public sale will be used 
 6. More rewards
 7. Token buyback
 
-### 10. PCR Staking
+### 9. PCR Staking
 
 TBD
 
-### 11. Liquidity Mining
+### 10. Liquidity Mining
 
 TBD
 
-### 12. Token Buyback
+### 11. Token Buyback
 
 TBD
+
+### 12. Use of Funding
+
+The capital collected from private sale, pre-sale, and public sale will be used for the further development of the Paycer company and all related operations. The largest part of the investment will be allocated to technical development, including the Paycer protocol and platform. Another important point will be marketing and all related activities to reach end customers. Legal and regulatory aspects are also crucial, for instance obtaining a banking license. Continuous business development and exploration of new business areas are also essential. The last major item is operations; this includes infrastructure costs, rent, office equipment, and salaries that do not relate to any of the previously mentioned areas. The precise allocation of the funds is displayed in the following figure.
+
+![How the received funding will be used by Paycer](../.gitbook/assets/paycer-funding-allocation-.png)
 
 
 
