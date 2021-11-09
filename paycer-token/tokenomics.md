@@ -7,7 +7,7 @@ description: >-
 
 # Tokenomics
 
-![Paycer Token PCR allocation](<../.gitbook/assets/Paycer Token Allocation.png>)
+![Paycer Token PCR allocation](../.gitbook/assets/Paycer\_Token\_Allocation.png)
 
 
 
@@ -19,10 +19,10 @@ description: >-
 | Type           | ERC20                  |
 | Use Case       | Utility Token          |
 | Maximum Supply | 750M (750,000,000 PCR) |
-| TGE Supply     | 766k ( 766,552 PCR)    |
+| TGE Supply     | 475k ( 474,885 PCR)    |
 | Private Sale   | 7%                     |
-| Pre-Sale       | 8%                     |
-| Public Sale    | 10%                    |
+| Pre-Sale       | 4%                     |
+| Public Sale    | 5%                     |
 | Team           | 10%                    |
 | Vesting        | Yes - daily release    |
 
@@ -37,17 +37,17 @@ description: >-
 
 ### 3. Pre-Sale
 
-* Tokens available for sale: 60,000,000 PCR
+* Tokens available for sale: 30,000,000 PCR
 * Token price: $0.045
 * Vesting period: 12 months with a daily release of 1/365 of bought PCR
-* Hardcap: $2,700,000.00
+* Hardcap: $1,350,000.00
 
 ### 4. Public Sale
 
-* Tokens available for sale: 75,000,000 PCR
+* Tokens available for sale: 37,500,000 PCR
 * Token price: $0.055
 * Vesting period: 6 months with a daily release of 1/180 of ought PCR
-* Hardcap: $4,125,000.00
+* Hardcap: $2,062,500.00
 
 ### 5. Team Token
 
