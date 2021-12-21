@@ -21,5 +21,9 @@
   * [10. Disclaimer](documentation/whitepaper/11.-disclaimer.md)
   * [11. List of Abbreviations](documentation/whitepaper/list-of-abbreviations.md)
   * [12. References](documentation/whitepaper/13.-references.md)
-* [Litepaper](https://www.paycer.io/paycer_litepaper.pdf?t=1630009349074)
+* [Litepaper](https://www.paycer.io/paycer\_litepaper.pdf?t=1630009349074)
 
+***
+
+* [Risk Disclaimer](risk-disclaimer.md)
+* [General Terms and Conditions](general-terms-and-conditions.md)
