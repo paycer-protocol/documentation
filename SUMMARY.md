@@ -23,7 +23,7 @@
   * [12. References](documentation/whitepaper/13.-references.md)
 * [Litepaper](https://www.paycer.io/paycer\_litepaper.pdf?t=1630009349074)
 
-***
+## Legal
 
-* [Risk Disclaimer](risk-disclaimer.md)
-* [General Terms and Conditions](general-terms-and-conditions.md)
+* [Risk Disclaimer](legal/risk-disclaimer.md)
+* [General Terms and Conditions](legal/general-terms-and-conditions.md)
