@@ -8,7 +8,7 @@ The Parties agree as follows:
 
 **1.1** The PCR Token will be issued by the Paycer UG (referred to herein as “**Company**” or “**Paycer**”) . The largest share of PCR Tokens will be distributed to the community and private investors. There will be 750,000,000 (750 million) PCR Tokens in total.
 
-**1.2** The PCR Token Sale will take place within the time frame as of \[**Please insert**] till \[**Please insert**]. The time frame is not binding and the Company may modify it due to market developments.
+**1.2** The PCR Token Sale will take place within the time frame as of 30. Dec 2021 till 05. Jan 2022. The time frame is not binding and the Company may modify it due to market developments.
 
 **1.3** The PCR Token Sale is planned to take place as described in Sections 5.1.1 to 5.1.3 of the Whitepaper, with the seed funding, the Public Sale A and the Public Sale B in different phases. In total, 40% of the planned total number of PCRs amounting to 750 million PCR Tokens are to be sold in the PCR Token Sale.&#x20;
 
@@ -42,7 +42,7 @@ The Purchaser acknowledges and agrees that no information provided by the Compan
 
 6\. Technical Requirements
 
-**6.1** Since the PCR Tokens base on \[**Please insert**], it is necessary that the Purchaser has an active Wallet.
+**6.1** Since the PCR Tokens base on Polygon Matic, it is necessary that the Purchaser has an active Wallet.
 
 **6.2** The Company is not responsible for any losses resulting from the Purchaser providing a non-compatible address or a non-compatible wallet. Providing an incompatible address or incompatible wallet will lead to a complete loss of the purchased PCR Tokens since PCR Tokens sent to an incompatible address respectively incompatible wallet are permanently lost and unrecoverable.
 
@@ -50,7 +50,7 @@ The Purchaser acknowledges and agrees that no information provided by the Compan
 
 **6.4** The Company is not responsible for any losses resulting from the Purchaser losing the private key for the address.
 
-**6.5** The Purchaser is aware that the Company is not able to check if the provided address or the provided wallet is compatible with the \[**Please insert**].
+**6.5** The Purchaser is aware that the Company is not able to check if the provided address or the provided wallet is compatible with Polygon Matic, BinanceSmartChain or Ethereum.
 
 7\. Limitation of Liability, Obligation to Notify in Case of Special Risk of Damage
 
