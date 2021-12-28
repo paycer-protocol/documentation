@@ -6,6 +6,7 @@
 
 * [Tokenomics](paycer-token/tokenomics.md)
 * [Smart Contracts](paycer-token/smart-contracts.md)
+* [Vesting](paycer-token/vesting.md)
 
 ## DOCUMENTATION
 
