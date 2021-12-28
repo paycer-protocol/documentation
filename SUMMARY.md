@@ -5,6 +5,7 @@
 ## Paycer Token
 
 * [Tokenomics](paycer-token/tokenomics.md)
+* [Smart Contracts](paycer-token/smart-contracts.md)
 
 ## DOCUMENTATION
 
