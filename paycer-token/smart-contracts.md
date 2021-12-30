@@ -10,19 +10,27 @@ description: >-
 
 {% tabs %}
 {% tab title="Ethereum - Mainnet" %}
-### tbd
+**Paycer Token**
+
+[0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1](https://etherscan.io/address/0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1)
 {% endtab %}
 
 {% tab title="Polygon" %}
+**Paycer Token**
 
+[0xa6083abe845fbB8649d98B8586cBF50b7f233612](https://polygonscan.com/address/0xa6083abe845fbB8649d98B8586cBF50b7f233612)
 {% endtab %}
 
 {% tab title="BSC" %}
+**Paycer Token**
 
+[0xa9f31589E0a8c0b12068329736ed6385A8F77b62](https://bscscan.com/address/0xa9f31589E0a8c0b12068329736ed6385A8F77b62)
 {% endtab %}
 
 {% tab title="Avalaunch" %}
+**Paycer Token**
 
+[0xa9f31589e0a8c0b12068329736ed6385a8f77b62](https://snowtrace.io/address/0xa9f31589e0a8c0b12068329736ed6385a8f77b62)
 {% endtab %}
 {% endtabs %}
 
@@ -33,6 +41,8 @@ description: >-
 **Paycer Token**
 
 [0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10](https://kovan.etherscan.io/address/0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10)
+
+
 {% endtab %}
 
 {% tab title="Polygon - Mumbai" %}
