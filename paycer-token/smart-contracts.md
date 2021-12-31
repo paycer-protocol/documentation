@@ -27,7 +27,7 @@ description: >-
 [0xa9f31589E0a8c0b12068329736ed6385A8F77b62](https://bscscan.com/address/0xa9f31589E0a8c0b12068329736ed6385A8F77b62)
 {% endtab %}
 
-{% tab title="Avalaunch" %}
+{% tab title="Avalanche" %}
 **Paycer Token**
 
 [0xa9f31589e0a8c0b12068329736ed6385a8f77b62](https://snowtrace.io/address/0xa9f31589e0a8c0b12068329736ed6385a8f77b62)
@@ -57,7 +57,7 @@ description: >-
 [0x15b1071A8b7Cf5a32324DA846c75DE5F2Eacf364](https://testnet.bscscan.com/address/0x15b1071A8b7Cf5a32324DA846c75DE5F2Eacf364)
 {% endtab %}
 
-{% tab title="Avalaunch - Fuji" %}
+{% tab title="Avalanche - Fuji" %}
 **Paycer Token**
 
 [0x15b1071a8b7cf5a32324da846c75de5f2eacf364](https://testnet.snowtrace.io/address/0x15b1071a8b7cf5a32324da846c75de5f2eacf364)
