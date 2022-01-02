@@ -19,7 +19,7 @@ description: >-
 | Type           | ERC20                  |
 | Use Case       | Utility Token          |
 | Maximum Supply | 750M (750,000,000 PCR) |
-| TGE Supply     | 475k ( 474,885 PCR)    |
+| TGE Supply     | 1.5M ( 1,530,000 PCR)  |
 | Private Sale   | 7%                     |
 | Pre-Sale       | 4%                     |
 | Public Sale    | 5%                     |
@@ -46,7 +46,7 @@ description: >-
 
 * Tokens available for sale: 37,500,000 PCR
 * Token price: $0.055
-* Vesting period: 6 months with a daily release of 1/180 of ought PCR
+* Vesting period: 6 months with a monthly release of 1/6 of bought PCR
 * Hardcap: $2,062,500.00
 
 ### 5. Team Token
