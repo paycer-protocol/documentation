@@ -1,8 +1,8 @@
 ---
 description: >-
   On this page you can learn more about the Paycer PCR tokenomics. PCR is a
-  utility token based on the ERC20 protocol on the Ethereum blockchain. Please
-  find all the important information below.
+  utility token based on the ERC20 standard launched on the Polygon blockchain.
+  Please find all the important information below.
 ---
 
 # Tokenomics
@@ -16,7 +16,7 @@ description: >-
 | KEY DATA       |                        |
 | -------------- | ---------------------- |
 | Ticker         | PCR                    |
-| Type           | ERC20                  |
+| Type           | ERC20 (on Polygon)     |
 | Use Case       | Utility Token          |
 | Maximum Supply | 750M (750,000,000 PCR) |
 | TGE Supply     | 1.5M ( 1,530,000 PCR)  |
@@ -24,7 +24,7 @@ description: >-
 | Pre-Sale       | 4%                     |
 | Public Sale    | 5%                     |
 | Team           | 10%                    |
-| Vesting        | Yes - daily release    |
+| Vesting        | Yes                    |
 
 79% of PCR are allocated to the community and will be distributed by token sales, marketing, staking rewards and liquidity mining.
 
