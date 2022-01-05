@@ -54,7 +54,7 @@ description: >-
 * Total team tokens: 75,000,000 PCR (10%)
 * Each team member gets an allocation of 750,000 PCR.
 * Vesting period of 36 months with a daily release of 1/1000 of allocated PCR.
-* The remaining PCR tokens remain in the team pool for new team members and as team reserve or can be used for a bonus when reaching important milestones.
+* The remaining PCR tokens remain in the team pool for new team members and as team reserve.
 
 ### 6. Advisor and Partner Tokens
 
@@ -66,7 +66,7 @@ description: >-
 
 The expected circulating supply will be around 580M PCR 8 years after the TGE. One year after the TGE when most vesting periods are over, the main drivers for the token release will be PCR staking and liquidity mining. Detailed calculations and formulas regarding the token distribution can be found in the Paycer whitepaper.
 
-![Expected circulating PCR supply over a period of 96 months.](<../.gitbook/assets/PCR Paycer Circulating Token Supply.png>)
+![Expected circulating PCR supply over a period of 96 months.](../.gitbook/assets/Paycer\_token\_distribution.png)
 
 ### 8. Token Utilities
 
@@ -89,7 +89,10 @@ The expected circulating supply will be around 580M PCR 8 years after the TGE. O
    You can increase your reward rate up to a double.\
 
 7. Token buyback:\
-   Paycer plans to use a part of its future revenue to buy back PCR tokens. This may require a license or permit that Paycer must obtain.
+   Paycer plans to use a part of its future revenue to buy back PCR tokens. This may require a license or permit that Paycer must obtain.\
+
+8. Referral Bonus:\
+   The bonus of Paycer's future referral program will also be based on the loyalty tiers.
 
 ### 9. Use of Funding
 
