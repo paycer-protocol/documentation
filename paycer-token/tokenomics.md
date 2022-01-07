@@ -93,7 +93,7 @@ The expected circulating supply will be around 580M PCR 8 years after the TGE. O
    Paycer plans to use a part of its future revenue to buy back PCR tokens. This may require a license or permit that Paycer must obtain.\
 
 8. Referral Bonus:\
-   The bonus of Paycer's future referral program will also be based on the loyalty tiers.
+   The bonus of Paycer's future referral program will also be based on the loyalty tiers. The more tokens you hold the more referral bonus you can receive.
 
 ### 9. Use of Funding
 
