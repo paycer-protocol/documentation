@@ -13,20 +13,21 @@ description: >-
 
 ### 1. Paycer Token (PCR)
 
-| KEY DATA       |                        |
-| -------------- | ---------------------- |
-| Ticker         | PCR                    |
-| Type           | ERC20 (on Polygon)     |
-| Use Case       | Utility Token          |
-| Maximum Supply | 750M (750,000,000 PCR) |
-| TGE Supply     | 1.5M ( 1,530,000 PCR)  |
-| Private Sale   | 7%                     |
-| Pre-Sale       | 4%                     |
-| Public Sale    | 5%                     |
-| Team           | 10%                    |
-| Vesting        | Yes                    |
+| KEY DATA       |                                                                                                                                                     |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Ticker         | PCR                                                                                                                                                 |
+| Type           | ERC20 (on Polygon)                                                                                                                                  |
+| Use Case       | Utility Token                                                                                                                                       |
+| Maximum Supply | 750M (750,000,000 PCR)                                                                                                                              |
+| TGE Supply     | 4.5M PCR                                                                                                                                            |
+| Private Sale   | 7%                                                                                                                                                  |
+| Pre-Sale       | 4%                                                                                                                                                  |
+| Public Sale    | 5%                                                                                                                                                  |
+| Team           | 10%                                                                                                                                                 |
+| Utilities      | Voting Right, Staking, Liquidity Mining, Loyalty Tiers, earn more Interests, reduced Fees, earn more Rewards, Token Buyback, Referral Program Bonus |
+| Vesting        | Yes                                                                                                                                                 |
 
-79% of PCR are allocated to the community and will be distributed by token sales, marketing, staking rewards and liquidity mining.
+Most of the PCR tokens are allocated to the community and will be distributed by token sales, marketing events, staking rewards and liquidity mining.
 
 ### 2. Private Sale
 
