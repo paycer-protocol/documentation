@@ -9,16 +9,16 @@ description: >-
 ## Mainnet
 
 {% tabs %}
-{% tab title="Ethereum - Mainnet" %}
-**Paycer Token**
-
-[0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1](https://etherscan.io/address/0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1)
-{% endtab %}
-
 {% tab title="Polygon" %}
 **Paycer Token**
 
 [0xa6083abe845fbB8649d98B8586cBF50b7f233612](https://polygonscan.com/address/0xa6083abe845fbB8649d98B8586cBF50b7f233612)
+{% endtab %}
+
+{% tab title="Ethereum - Mainnet" %}
+**Paycer Token**
+
+[0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1](https://etherscan.io/address/0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1)
 {% endtab %}
 
 {% tab title="BSC" %}
@@ -37,14 +37,6 @@ description: >-
 ## Testnet
 
 {% tabs %}
-{% tab title="Ethereum - Kovan" %}
-**Paycer Token**
-
-[0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10](https://kovan.etherscan.io/address/0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10)
-
-
-{% endtab %}
-
 {% tab title="Polygon - Mumbai" %}
 **Paycer Token**
 
@@ -79,6 +71,14 @@ description: >-
 **Vesting - Adviosr & Partners**
 
 [0x59b7B481E5d6C5e33c88CB37c5003043E7bBeDBd](https://mumbai.polygonscan.com/address/0x59b7B481E5d6C5e33c88CB37c5003043E7bBeDBd)
+{% endtab %}
+
+{% tab title="Ethereum - Kovan" %}
+**Paycer Token**
+
+[0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10](https://kovan.etherscan.io/address/0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10)
+
+
 {% endtab %}
 
 {% tab title="BSC - Testenet" %}
