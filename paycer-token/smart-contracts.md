@@ -46,31 +46,31 @@ description: >-
 
 **Vesting - Private Sale**&#x20;
 
-[0xACa2Bd12c969B030bc57980e6F30B70c2578Db4E](https://mumbai.polygonscan.com/address/0xACa2Bd12c969B030bc57980e6F30B70c2578Db4E)
+[0x111d13fBc49A5aB91a721be88008F3090ab727E0](https://mumbai.polygonscan.com/address/0x111d13fBc49A5aB91a721be88008F3090ab727E0)
 
 
 
 **Vesting - Pre-Sale**&#x20;
 
-[0x2a896d3D34C54F9808DE597E1BbdBd57954DbCB0](https://mumbai.polygonscan.com/address/0x2a896d3D34C54F9808DE597E1BbdBd57954DbCB0)
+[0x909fEb2857814565F257314F295a01Fe7e3F3939](https://mumbai.polygonscan.com/address/0x909fEb2857814565F257314F295a01Fe7e3F3939)
 
 
 
 **Vesting - Public Sale**&#x20;
 
-[0x6961D3465a4F9842D98F5F5ACc84F940Dbfa8E69](https://mumbai.polygonscan.com/address/0x6961D3465a4F9842D98F5F5ACc84F940Dbfa8E69)
+[0x8A8555E4a143Dc2f5DfA31D8334585d14C6c326B](https://mumbai.polygonscan.com/address/0x8A8555E4a143Dc2f5DfA31D8334585d14C6c326B)
 
 
 
 **Vesting - Team Token**&#x20;
 
-[0xfB834BF290c986c4F03552E51b633757f43cc0E6](https://mumbai.polygonscan.com/address/0xfB834BF290c986c4F03552E51b633757f43cc0E6)
+[0x45816da4dff59560F229C468ec16eF6A5ea4c58A](https://mumbai.polygonscan.com/address/0x45816da4dff59560F229C468ec16eF6A5ea4c58A)
 
 
 
 **Vesting - Adviosr & Partners**
 
-[0x3082156e9504D06Dece6B80E7273d29B6f22001f](https://mumbai.polygonscan.com/address/0x3082156e9504D06Dece6B80E7273d29B6f22001f)
+[0x86bd32443eb7675D00295ff27287762D0e3D243D](https://mumbai.polygonscan.com/address/0x86bd32443eb7675D00295ff27287762D0e3D243D)
 {% endtab %}
 
 {% tab title="Ethereum - Kovan" %}
