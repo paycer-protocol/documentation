@@ -5,7 +5,7 @@ description: >-
   Please find all the important information below.
 ---
 
-# 🪙 Tokenomics
+# Tokenomics
 
 ![Paycer Token PCR allocation](../.gitbook/assets/Paycer\_Token\_Allocation.png)
 

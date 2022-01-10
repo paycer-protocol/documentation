@@ -1,4 +1,4 @@
-# 📘 Whitepaper
+# Whitepaper
 
 **Building a cross-chain yield aggregation bridge protocol for DeFi and banking for mainstream adaption**
 

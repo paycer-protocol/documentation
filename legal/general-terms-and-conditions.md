@@ -1,4 +1,4 @@
-# ⚖ General Terms and Conditions
+# General Terms and Conditions
 
 Dezember 2021
 
