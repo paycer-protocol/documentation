@@ -7,7 +7,7 @@
 * [Tokenomics](paycer-token/tokenomics.md)
 * [Smart Contracts](paycer-token/smart-contracts.md)
 * [Claiming/Vesting](paycer-token/claiming-vesting.md)
-* [PCR Supply](paycer-token/pcr-supply.md)
+* [Token Supply](paycer-token/token-supply.md)
 
 ## DOCUMENTATION
 
