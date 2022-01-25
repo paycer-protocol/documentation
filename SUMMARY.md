@@ -26,6 +26,10 @@
   * [12. References](documentation/whitepaper/13.-references.md)
 * [Litepaper](https://www.paycer.io/paycer\_litepaper.pdf?t=1630009349074)
 
+## Project
+
+* [Roadmap](project/roadmap.md)
+
 ## Legal
 
 * [Risk Disclaimer](legal/risk-disclaimer.md)
