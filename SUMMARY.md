@@ -28,7 +28,8 @@
 
 ## Project
 
-* [Roadmap](project/roadmap.md)
+* [Serpentine Mountain (2)](project/serpentine-mountain-2.md)
+* [Moon Veil (1)](project/moon-veil-1.md)
 
 ## Legal
 
