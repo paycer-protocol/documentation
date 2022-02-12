@@ -8,6 +8,7 @@
 * [Smart Contracts](paycer-token/smart-contracts.md)
 * [Token Vesting](paycer-token/token-vesting.md)
 * [Token Supply](paycer-token/token-supply.md)
+* [Dodo DEX Pool](paycer-token/dodo-dex-pool.md)
 
 ## DOCUMENTATION
 
@@ -28,8 +29,8 @@
 
 ## Project
 
-* [Serpentine Mountain (2)](project/serpentine-mountain-2.md)
-* [Moon Veil (1)](project/moon-veil-1.md)
+* [Serpentine Mountain 2](project/serpentine-mountain-2.md)
+* [Moon Veil 1](project/moon-veil-1.md)
 
 ## Legal
 
