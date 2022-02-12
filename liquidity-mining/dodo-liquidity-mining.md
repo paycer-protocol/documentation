@@ -20,13 +20,18 @@ The community liquidity mining pool on DODO is a pool where everyone from the co
 
 ![PCR USDC Pool on DODO DEX](<../.gitbook/assets/PCR USDC pool.png>)
 
+|                        | Value          |
+| ---------------------- | -------------- |
+| Reward Token           | PCR            |
+| Campaign Period (Days) | 109            |
+| Daily Rewards (Pool)   | 26,251.4901    |
+| Total Rewards          | 2,861,412.4222 |
+
 Please find the link to the PCR/USDC pool below. You can find more info on how to participate in the liquidity mining in the following sections on this page.
 
 {% embed url="https://app.dodoex.io/mining?mining=0x5ecdc7727532d81c9a938e130d49f5beefafd38a&network=polygon" %}
 Link to the PCR/USDC Liquidity Mining Pool
 {% endembed %}
-
-
 
 ### How to participate in Liquidity Mining on DODO?
 

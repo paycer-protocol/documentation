@@ -8,7 +8,10 @@
 * [Smart Contracts](paycer-token/smart-contracts.md)
 * [Token Vesting](paycer-token/token-vesting.md)
 * [Token Supply](paycer-token/token-supply.md)
-* [Dodo Liquidity Mining](paycer-token/dodo-liquidity-mining.md)
+
+## Liquidity Mining
+
+* [Dodo Liquidity Mining](liquidity-mining/dodo-liquidity-mining.md)
 
 ## DOCUMENTATION
 
