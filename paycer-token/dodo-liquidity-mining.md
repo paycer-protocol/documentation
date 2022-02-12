@@ -4,7 +4,7 @@ description: >-
   community pool and how to participate in liquidity mining.
 ---
 
-# Dodo DEX Pool
+# Dodo Liquidity Mining
 
 ![](<../.gitbook/assets/dodo paycer pcr pool.png>)
 
