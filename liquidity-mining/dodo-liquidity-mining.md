@@ -18,7 +18,7 @@ Learn more: [https://dodoex.github.io/docs/docs/](https://dodoex.github.io/docs/
 
 The community liquidity mining pool on DODO is a pool where everyone from the community can provide PCR and USDC as liquidity to farm PCR rewards. At the start the rewards will be very high so it is good to be early. When more people are joining the pool the rewards will get less because they get split over more people. To join the liquidity mining you will need PCR and USDC tokens on Polygon network and a bit MATIC to pay the gas fees.
 
-![PCR USDC Pool on DODO DEX](<../.gitbook/assets/PCR USDC pool.png>)
+![](<../.gitbook/assets/USDC PCR Paycer Pool DODO.png>)
 
 |                        | Value          |
 | ---------------------- | -------------- |
@@ -59,7 +59,7 @@ In the “Mining” page under the “Earn” drop-down menu, click the trading 
 
 Click the “Add Liquidity” button. Enter the amount of tokens you wish to add to the pool. Approve the token permission first if prompted. You could start adding liquidity once the “approval to spend” is done. Note: DODO supports single-side liquidity, you do not need to add both pairs if you do not wish to.
 
-![](../.gitbook/assets/mceclip2.png)
+![](<../.gitbook/assets/supply liquidity pool pcr paycer usdc.png>)
 
 **5. Stake LP**
 
