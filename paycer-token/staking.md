@@ -12,7 +12,7 @@ Staking is providing or locking a token to get a distribution of staking rewards
 
 ### Staking PCR
 
-Paycer also provides staking of PCR tokens on its DeFi platform [paycer.finance](https://paycer.finance). Through staking, users can already put their Paycer tokens to beneficial use. Through staking there is some but little inflation of the token number and the early holders of the PCR token will be the ones who will receive the most payout in staking rewards. To participate in the staking, only PCR tokens on Polygon and a very small amount of MATIC for the gas fees are required. At the time of writing there were already over 4.1M PCR tokens staked.&#x20;
+Paycer also provides staking of PCR tokens on its DeFi platform [paycer.finance](https://paycer.finance). Through staking, users can already put their Paycer tokens to beneficial use. Through staking there is some but little inflation of the token number and the early holders of the PCR token will be the ones who will receive the most payout in staking rewards. To participate in the staking, only PCR tokens on Polygon and a very small amount of MATIC for the gas fees are required. At the time of writing there were already over 4.1M PCR tokens staked. Impressive 30% of the maximum PCR supply will be distributed via staking to early investors. In the future, these investors will hold large amounts of PCR tokens and will thus also be able to influence the product through their votes.
 
 ### Staking APR and Loyalty Tiers
 
