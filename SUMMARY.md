@@ -8,6 +8,7 @@
 * [Smart Contracts](paycer-token/smart-contracts.md)
 * [Token Vesting](paycer-token/token-vesting.md)
 * [Token Supply](paycer-token/token-supply.md)
+* [Staking](paycer-token/staking.md)
 * [Token Burn](paycer-token/token-burn.md)
 
 ## Liquidity Mining
