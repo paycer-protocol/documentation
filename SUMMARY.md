@@ -34,6 +34,7 @@
 
 ## Project
 
+* [Wireless Frog 3](project/wireless-frog-3.md)
 * [Serpentine Mountain 2](project/serpentine-mountain-2.md)
 * [Moon Veil 1](project/moon-veil-1.md)
 
