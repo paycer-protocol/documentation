@@ -39,7 +39,6 @@ The Paycer protocol will provide interchain operability and aggregate certain De
 ### Community
 
 * [Twitter](https://twitter.com/paycerprotocol)
-* [Discord](https://discord.gg/eEX7Utqj)
 * [Telegram Community](https://t.me/paycerprotocol)
 * [Telegram Announcement](https://t.me/paycerprotocolanno)
 * [LinkedIn](https://www.linkedin.com/company/paycer/)
