@@ -6,7 +6,7 @@ description: Building a cross-chain yield aggregation bridge protocol for DeFi a
 
 Welcome! This central source of truth containing instructions and documentations for the Paycer Protocol. We also provide other useful resources related to Paycer.
 
-![](.gitbook/assets/group-14-1-.png)
+![](<.gitbook/assets/paycer whitepaper intro.png>)
 
 ### What is the Paycer Protocol?
 

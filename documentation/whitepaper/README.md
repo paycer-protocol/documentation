@@ -1,8 +1,14 @@
+---
+description: >-
+  In the Paycer whitepaper you can find all the detailed information about the
+  project.
+---
+
 # Whitepaper
 
 **Building a cross-chain yield aggregation bridge protocol for DeFi and banking for mainstream adaption**
 
-![](../../.gitbook/assets/group-15-1-.png)
+![](<../../.gitbook/assets/paycer whitepaper intro.png>)
 
 This whitepaper presents the Paycer® protocol and platform, a cross-chain yield aggregator protocol.&#x20;
 
