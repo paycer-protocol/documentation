@@ -44,6 +44,12 @@ description: >-
 **Paycer Token**
 
 [0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1](https://etherscan.io/address/0x24FdBF97A95d425E2e53D1d35C4920c82Ba784f1)
+
+
+
+**Staking**
+
+[0xb29806b7E5C9906F6190698EEF4AC1856e07Af4b](https://etherscan.io/address/0xb29806b7E5C9906F6190698EEF4AC1856e07Af4b)
 {% endtab %}
 
 {% tab title="BSC" %}
@@ -58,6 +64,8 @@ description: >-
 [0xa9f31589e0a8c0b12068329736ed6385a8f77b62](https://snowtrace.io/address/0xa9f31589e0a8c0b12068329736ed6385a8f77b62)
 {% endtab %}
 {% endtabs %}
+
+
 
 ## Testnet
 
@@ -105,9 +113,11 @@ description: >-
 {% tab title="Ethereum - Kovan" %}
 **Paycer Token**
 
-[0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10](https://kovan.etherscan.io/address/0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10)
+[0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10](https://kovan.etherscan.io/address/0xfd7EC62C0d20C799b01E3D61EC53A2780893fc10)\
+\
+**Staking**
 
-
+[0x8C5c4a0420330eAA9e799cf94C4d2c21e075BAAD](https://kovan.etherscan.io/address/0x8C5c4a0420330eAA9e799cf94C4d2c21e075BAAD)
 {% endtab %}
 
 {% tab title="BSC - Testenet" %}
@@ -122,6 +132,8 @@ description: >-
 [0x15b1071a8b7cf5a32324da846c75de5f2eacf364](https://testnet.snowtrace.io/address/0x15b1071a8b7cf5a32324da846c75de5f2eacf364)
 {% endtab %}
 {% endtabs %}
+
+
 
 
 
